@@ -1,2 +1,3 @@
-# cuda-playground
+# CUDA playground
+
 For experimenting with nVIDIA's CUDA.
